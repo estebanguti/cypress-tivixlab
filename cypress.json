@@ -1,0 +1,7 @@
+{
+    "testFiles": "**/*.{feature,features}",
+    "env" : 
+    {
+        "url": "http://qalab.pl.tivixlabs.com"
+    }
+}
